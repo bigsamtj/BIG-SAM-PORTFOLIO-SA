@@ -277,7 +277,7 @@ const Hero = () => {
             <div className="p-5 bg-black/80 backdrop-blur-2xl border border-white/15 rounded-xl shadow-2xl max-w-xs">
               <h3 className="text-xs font-mono uppercase tracking-widest text-red-500 font-bold mb-2">CORE INTELLIGENCE DOMAINS</h3>
               <p className="text-xs text-white/80 leading-relaxed font-light">
-                Digital Forensics • Ethical Hacking • Security Research • AI/ML Security
+                Digital Forensics • Ethical Hacking • Security Research • Developer
               </p>
             </div>
           </div>
