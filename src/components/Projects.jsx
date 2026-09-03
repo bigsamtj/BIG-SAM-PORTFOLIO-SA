@@ -84,16 +84,6 @@ const projectsData = [
     tags: ["Network Forensics", "Wireshark", "NetworkMiner", "IOC Analysis"],
     match: "CASE",
     episode: "CASE 08"
-  },
-
-  {
-    title: "Tor & Proxychain Anonymity Testing",
-    category: "ETHICAL HACKING • ANONYMITY",
-    description:
-      "Validated anonymity mechanisms using Tor and Proxychains within a Kali Linux environment, examining how traffic routing and proxy chaining affect network visibility during security testing.",
-    tags: ["Ethical Hacking", "Tor", "Proxychains", "Kali Linux"],
-    match: "LAB",
-    episode: "CASE 09"
   }
 ];
 
