@@ -24,7 +24,7 @@ const projectsData = [
     ],
     match: "CASE",
     episode: "CASE 01",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://www.linkedin.com/posts/bigsamtj_mobile-forensics-operation-sim-shift-investigation-activity-7497318812946653184-fV_V?utm_source=share&utm_medium=member_ios&rcm=ACoAADCrjx0BgQ6Xzl__aefqo51Fx2qFhDDulOI"
   },
 
   {
@@ -40,7 +40,7 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 02",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -56,7 +56,7 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 03",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -72,7 +72,7 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 04",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -88,7 +88,7 @@ const projectsData = [
     ],
     match: "CASE",
     episode: "CASE 05",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -104,7 +104,7 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 06",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://youtu.be/6Xmgaa08t2M?si=2QiOEjjwEYTlxvt_"
   },
 
   {
@@ -120,7 +120,7 @@ const projectsData = [
     ],
     match: "RESEARCH",
     episode: "CASE 07",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://docs.google.com/document/u/0/d/1X9DzUrwttnX8ZkFVtRQ6hPnaLL3irUHpr6x_4Xf5BDQ/mobilebasic?pli=1"
   },
 
   {
@@ -136,7 +136,7 @@ const projectsData = [
     ],
     match: "CASE",
     episode: "CASE 08",
-    link: "BIGSAMDROPLINKHERE"
+    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   }
 ];
 
