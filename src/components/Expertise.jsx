@@ -124,7 +124,7 @@ const Expertise = () => {
             <h2 className="text-3xl md:text-5xl font-black text-white tracking-tight leading-tight">
               INVESTIGATOR'S
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-rose-600 to-red-700 drop-shadow-[0_0_25px_rgba(229,9,20,0.35)]">
-                AREAS OF EXPERTISE.
+              AREAS OF EXPERTISE.
               </span>
             </h2>
           </div>
