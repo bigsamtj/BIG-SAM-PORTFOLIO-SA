@@ -4,14 +4,10 @@
 
 > A cinematic personal portfolio showcasing my work across Digital Forensics, Cybersecurity, Software Engineering, Security Research, and emerging AI-driven technologies.
 
----
-
 ## 🌐 Portfolio
 
 **Live Website:**  
 https://samueladeyinka.com
-
----
 
 ## 👋 About
 
@@ -33,7 +29,6 @@ I am particularly interested in building systems that don't just function, but a
 
 This portfolio represents my professional journey and my continuous exploration of technology, security, software design, and intelligent systems.
 
----
 
 ## ⚡ What I Do
 
@@ -88,8 +83,6 @@ This portfolio represents my professional journey and my continuous exploration 
 - AI-Assisted Cyber Operations
 - AI for Threat Detection
 
----
-
 ## 🛠️ Technology Stack
 
 ### Languages
@@ -142,7 +135,6 @@ This portfolio represents my professional journey and my continuous exploration 
 - CyberChef
 - ExifTool
 
----
 
 ## 🚀 Featured Projects
 
@@ -152,7 +144,6 @@ This portfolio represents my professional journey and my continuous exploration 
 
 A forensic investigation focused on reconstructing vehicle activity through digital telemetry, GPS records, fuel sensor data, PTO logs, keyfob activity, odometer information, and related digital artifacts.
 
----
 
 ### Artifact Nexus
 
@@ -160,7 +151,6 @@ A forensic investigation focused on reconstructing vehicle activity through digi
 
 A conceptual platform designed around the correlation and organization of digital forensic artifacts, helping investigators move from isolated evidence toward connected investigative intelligence.
 
----
 
 ### Frozen X
 
@@ -168,7 +158,6 @@ A conceptual platform designed around the correlation and organization of digita
 
 An experimental hardware-oriented project exploring the intersection of physical systems, cybersecurity, digital investigation, and investigative technology.
 
----
 
 ### Digital Forensics Toolkit
 
@@ -176,7 +165,6 @@ An experimental hardware-oriented project exploring the intersection of physical
 
 A collection of practical forensic utilities and concepts focused on evidence analysis, file integrity verification, metadata extraction, and repeatable forensic workflows.
 
----
 
 ## 🎬 Portfolio Design
 
@@ -197,7 +185,6 @@ The interface combines:
 
 The goal is to combine **engineering, cybersecurity, investigation, and visual storytelling** into a single digital experience.
 
----
 
 ## 🧩 Architecture
 
