@@ -6,8 +6,12 @@ gsap.registerPlugin(ScrollTrigger);
 
 // ============================================================
 // PROJECT DATA
-// Replace each BIGSAMDROPLINKHERE with your actual
+// ============================================================
+// Replace each link below with your actual
 // documentation / case study / GitHub / report link.
+//
+// IMPORTANT:
+// The entire project card is clickable.
 // ============================================================
 
 const projectsData = [
@@ -24,7 +28,8 @@ const projectsData = [
     ],
     match: "CASE",
     episode: "CASE 01",
-    link: "https://www.linkedin.com/posts/bigsamtj_mobile-forensics-operation-sim-shift-investigation-activity-7497318812946653184-fV_V?utm_source=share&utm_medium=member_ios&rcm=ACoAADCrjx0BgQ6Xzl__aefqo51Fx2qFhDDulOI"
+    link:
+      "https://www.linkedin.com/posts/bigsamtj_mobile-forensics-operation-sim-shift-investigation-activity-7497318812946653184-fV_V?utm_source=share&utm_medium=member_ios&rcm=ACoAADCrjx0BgQ6Xzl__aefqo51Fx2qFhDDulOI"
   },
 
   {
@@ -40,7 +45,8 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 02",
-    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
+    link:
+      "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -56,7 +62,8 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 03",
-    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
+    link:
+      "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -72,7 +79,8 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 04",
-    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
+    link:
+      "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -88,7 +96,8 @@ const projectsData = [
     ],
     match: "CASE",
     episode: "CASE 05",
-    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
+    link:
+      "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   },
 
   {
@@ -104,7 +113,8 @@ const projectsData = [
     ],
     match: "LAB",
     episode: "CASE 06",
-    link: "https://youtu.be/6Xmgaa08t2M?si=2QiOEjjwEYTlxvt_"
+    link:
+      "https://youtu.be/6Xmgaa08t2M?si=2QiOEjjwEYTlxvt_"
   },
 
   {
@@ -120,7 +130,8 @@ const projectsData = [
     ],
     match: "RESEARCH",
     episode: "CASE 07",
-    link: "https://docs.google.com/document/u/0/d/1X9DzUrwttnX8ZkFVtRQ6hPnaLL3irUHpr6x_4Xf5BDQ/mobilebasic?pli=1"
+    link:
+      "https://docs.google.com/document/u/0/d/1X9DzUrwttnX8ZkFVtRQ6hPnaLL3irUHpr6x_4Xf5BDQ/mobilebasic?pli=1"
   },
 
   {
@@ -136,17 +147,41 @@ const projectsData = [
     ],
     match: "CASE",
     episode: "CASE 08",
-    link: "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
+    link:
+      "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a"
   }
 ];
+
+
+// ============================================================
+// EXTERNAL PROJECT ARCHIVE
+// ============================================================
+// Replace this with your main Google Drive / external archive.
+//
+// This is intentionally separate from individual project links.
+// ============================================================
+
+const ARCHIVE_LINK =
+  "https://drive.google.com/drive/u/0/mobile/folders/1yIZ3hE4-sbeHPNIKecTMTKEV6YaegKhF/1IK3wSjIS9lJqSk500XG2Ja4uH3Jzf0Lh?usp=drive_link&sort=13&direction=a";
+
+
+// ============================================================
+// PROJECTS COMPONENT
+// ============================================================
 
 const Projects = () => {
   const containerRef = useRef(null);
   const folderBackRef = useRef(null);
   const folderFrontRef = useRef(null);
+
   const cardsRef = useRef([]);
   const mobileCardsRef = useRef([]);
   const mobileCarouselRef = useRef(null);
+
+
+  // ============================================================
+  // GSAP ANIMATION
+  // ============================================================
 
   useEffect(() => {
     let ctx = gsap.context(() => {
@@ -167,12 +202,14 @@ const Projects = () => {
         transformOrigin: "bottom center"
       });
 
+
       // ========================================================
       // DESKTOP GRID POSITION
       // ========================================================
 
       const getGridPos = (index) => {
-        let row, col;
+        let row;
+        let col;
 
         if (index < 3) {
           row = 0;
@@ -191,11 +228,15 @@ const Projects = () => {
         return { row, col };
       };
 
+
       // ========================================================
-      // INITIAL CARD STATE
+      // INITIAL DESKTOP CARD STATE
       // ========================================================
 
       cardsRef.current.forEach((card) => {
+
+        if (!card) return;
+
         gsap.set(card, {
           xPercent: -50,
           yPercent: -50,
@@ -204,13 +245,15 @@ const Projects = () => {
           x: 0,
           y: 0
         });
+
       });
+
 
       // ========================================================
       // RESPONSIVE GSAP
       // ========================================================
 
-      let mm = gsap.matchMedia();
+      const mm = gsap.matchMedia();
 
       mm.add(
         {
@@ -219,7 +262,11 @@ const Projects = () => {
         },
         (context) => {
 
-          let { isDesktop, isMobile } = context.conditions;
+          const {
+            isDesktop,
+            isMobile
+          } = context.conditions;
+
 
           // ======================================================
           // DESKTOP ANIMATION
@@ -229,61 +276,83 @@ const Projects = () => {
 
             let floatTween;
 
+
             const tl = gsap.timeline({
+
               scrollTrigger: {
                 trigger: containerRef.current,
                 start: "top 50%",
                 end: "bottom 50%",
-                toggleActions: "play reverse play reverse",
+
+                toggleActions:
+                  "play reverse play reverse",
 
                 onEnter: () => {
-                  if (floatTween) floatTween.kill();
+                  if (floatTween) {
+                    floatTween.kill();
+                  }
                 },
 
                 onEnterBack: () => {
-                  if (floatTween) floatTween.kill();
+                  if (floatTween) {
+                    floatTween.kill();
+                  }
                 },
 
                 onLeave: () => {
-                  if (floatTween) floatTween.kill();
+                  if (floatTween) {
+                    floatTween.kill();
+                  }
                 },
 
                 onLeaveBack: () => {
-                  if (floatTween) floatTween.kill();
+                  if (floatTween) {
+                    floatTween.kill();
+                  }
                 }
               },
 
               onComplete: () => {
 
-                floatTween = gsap.to(cardsRef.current, {
-                  y: "+=12",
-                  rotation: "+=1",
-                  duration: 3.5,
-                  yoyo: true,
-                  repeat: -1,
-                  ease: "sine.inOut",
-                  stagger: {
-                    amount: 1.5,
-                    from: "random"
+                floatTween = gsap.to(
+                  cardsRef.current,
+                  {
+                    y: "+=12",
+                    rotation: "+=1",
+                    duration: 3.5,
+                    yoyo: true,
+                    repeat: -1,
+                    ease: "sine.inOut",
+
+                    stagger: {
+                      amount: 1.5,
+                      from: "random"
+                    }
                   }
-                });
+                );
 
               }
+
             });
 
-            // ----------------------------------------------------
+
+            // ====================================================
             // 1. OPEN FOLDER
-            // ----------------------------------------------------
+            // ====================================================
 
-            tl.to(folderFrontRef.current, {
-              rotationX: -130,
-              duration: 1.2,
-              ease: "power3.inOut"
-            });
+            tl.to(
+              folderFrontRef.current,
+              {
+                rotationX: -130,
+                duration: 1.2,
+                ease: "power3.inOut"
+              }
+            );
 
-            // ----------------------------------------------------
+
+            // ====================================================
             // 2. CARDS RISE
-            // ----------------------------------------------------
+            // ====================================================
 
             tl.to(
               cardsRef.current,
@@ -298,44 +367,63 @@ const Projects = () => {
               "-=0.6"
             );
 
-            // ----------------------------------------------------
+
+            // ====================================================
             // 3. SPREAD INTO GRID
-            // ----------------------------------------------------
+            // ====================================================
 
             tl.to(
               cardsRef.current,
               {
+
                 x: (i) => {
 
                   const w =
                     Math.max(
                       ...cardsRef.current.map(
-                        c => c?.offsetWidth || 0
+                        card =>
+                          card?.offsetWidth || 0
                       )
                     ) || 360;
 
                   const gap = 40;
-                  const { col } = getGridPos(i);
 
-                  return (col - 1) * (w + gap);
+                  const { col } =
+                    getGridPos(i);
+
+                  return (
+                    (col - 1) *
+                    (w + gap)
+                  );
+
                 },
+
 
                 y: (i) => {
 
                   const h =
                     Math.max(
                       ...cardsRef.current.map(
-                        c => c?.offsetHeight || 0
+                        card =>
+                          card?.offsetHeight || 0
                       )
                     ) || 240;
 
                   const gap = 40;
-                  const { row } = getGridPos(i);
 
-                  return (row - 1) * (h + gap);
+                  const { row } =
+                    getGridPos(i);
+
+                  return (
+                    (row - 1) *
+                    (h + gap)
+                  );
+
                 },
 
-                rotation: () => gsap.utils.random(-3, 3),
+
+                rotation: () =>
+                  gsap.utils.random(-3, 3),
 
                 scale: 1,
 
@@ -347,10 +435,15 @@ const Projects = () => {
                 },
 
                 ease: "expo.out"
+
               },
+
               "-=0.2"
+
             );
+
           }
+
 
           // ======================================================
           // MOBILE ANIMATION
@@ -358,40 +451,71 @@ const Projects = () => {
 
           if (isMobile) {
 
-            const cardW = window.innerWidth * 0.8;
+            const cardW =
+              window.innerWidth * 0.8;
+
             const gap = 20;
 
-            mobileCardsRef.current.forEach((card, i) => {
 
-              gsap.set(card, {
-                x: -(i * (cardW + gap)),
-                y: 0,
-                scale: 0.4,
-                opacity: 0,
-                rotation: gsap.utils.random(-15, 15)
-              });
+            // ----------------------------------------------------
+            // INITIAL MOBILE CARD POSITION
+            // ----------------------------------------------------
 
-            });
+            mobileCardsRef.current.forEach(
+              (card, i) => {
+
+                if (!card) return;
+
+                gsap.set(card, {
+
+                  x:
+                    -(i * (cardW + gap)),
+
+                  y: 0,
+
+                  scale: 0.4,
+
+                  opacity: 0,
+
+                  rotation:
+                    gsap.utils.random(-15, 15)
+
+                });
+
+              }
+            );
+
+
+            // ----------------------------------------------------
+            // MOBILE TIMELINE
+            // ----------------------------------------------------
 
             const tl = gsap.timeline({
+
               scrollTrigger: {
                 trigger: containerRef.current,
                 start: "top 60%"
               }
+
             });
+
 
             // ----------------------------------------------------
             // OPEN FOLDER
             // ----------------------------------------------------
 
-            tl.to(folderFrontRef.current, {
-              rotationX: -130,
-              duration: 0.8,
-              ease: "power3.inOut"
-            });
+            tl.to(
+              folderFrontRef.current,
+              {
+                rotationX: -130,
+                duration: 0.8,
+                ease: "power3.inOut"
+              }
+            );
+
 
             // ----------------------------------------------------
-            // BRING MOBILE CARDS FORWARD
+            // BRING CARDS FORWARD
             // ----------------------------------------------------
 
             tl.to(
@@ -407,6 +531,7 @@ const Projects = () => {
               "-=0.4"
             );
 
+
             // ----------------------------------------------------
             // PLACE CARDS INTO CAROUSEL
             // ----------------------------------------------------
@@ -414,8 +539,11 @@ const Projects = () => {
             tl.to(
               mobileCardsRef.current,
               {
+
                 x: 0,
+
                 y: 0,
+
                 rotation: 0,
 
                 scale: (i) =>
@@ -432,224 +560,676 @@ const Projects = () => {
 
                 onComplete: () => {
 
-                  if (mobileCarouselRef.current) {
+                  if (
+                    mobileCarouselRef.current
+                  ) {
 
                     mobileCarouselRef.current.style.overflowX =
                       "auto";
 
                     mobileCarouselRef.current.style.pointerEvents =
                       "auto";
+
                   }
 
                 }
+
               },
+
               "-=0.2"
+
             );
+
           }
+
         }
       );
 
     }, containerRef);
 
-    return () => ctx.revert();
+
+    return () => {
+      ctx.revert();
+    };
 
   }, []);
+
+
+  // ============================================================
+  // RENDER
+  // ============================================================
 
   return (
 
     <section
       id="projects"
       ref={containerRef}
-      className="bg-[#0b0b0b] min-h-[100svh] md:min-h-[170vh] relative font-sans overflow-x-clip text-white w-full flex items-center justify-center py-24 md:py-40 select-none"
+
+      className="
+        bg-[#0b0b0b]
+        min-h-[100svh]
+        md:min-h-[170vh]
+        relative
+        font-sans
+        overflow-x-clip
+        text-white
+        w-full
+        flex
+        items-center
+        justify-center
+        py-24
+        md:py-40
+        select-none
+      "
     >
 
-      {/* ========================================================
+
+      {/* ======================================================
           BACKGROUND TITLE
-      ======================================================== */}
+      ====================================================== */}
 
-      <div className="absolute top-10 left-0 w-full flex items-start justify-center pointer-events-none z-0">
+      <div
+        className="
+          absolute
+          top-10
+          left-0
+          w-full
+          flex
+          items-start
+          justify-center
+          pointer-events-none
+          z-0
+        "
+      >
 
-        <h1 className="text-[14vw] sm:text-[17vw] md:text-[20vw] font-black text-white/[0.03] tracking-tighter leading-none whitespace-nowrap uppercase">
-
+        <h1
+          className="
+            text-[14vw]
+            sm:text-[17vw]
+            md:text-[20vw]
+            font-black
+            text-white/[0.03]
+            tracking-tighter
+            leading-none
+            whitespace-nowrap
+            uppercase
+          "
+        >
           ORIGINALS
-
         </h1>
 
       </div>
 
-      {/* ========================================================
+
+      {/* ======================================================
           AMBIENT RED GLOW
-      ======================================================== */}
+      ====================================================== */}
 
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[55vw] h-[55vw] bg-red-600/15 rounded-full blur-[160px] pointer-events-none z-0" />
+      <div
+        className="
+          absolute
+          top-1/2
+          left-1/2
+          -translate-x-1/2
+          -translate-y-1/2
+          w-[55vw]
+          h-[55vw]
+          bg-red-600/15
+          rounded-full
+          blur-[160px]
+          pointer-events-none
+          z-0
+        "
+      />
 
-      {/* ========================================================
+
+      {/* ======================================================
           MAIN PERSPECTIVE CONTAINER
-      ======================================================== */}
+      ====================================================== */}
 
-      <div className="mt-12 relative w-full max-w-7xl h-full flex items-center justify-center perspective-[2000px] z-10">
+      <div
+        className="
+          mt-12
+          relative
+          w-full
+          max-w-7xl
+          h-full
+          flex
+          items-center
+          justify-center
+          perspective-[2000px]
+          z-10
+        "
+      >
 
-        {/* Origin Container */}
+        {/* ====================================================
+            ORIGIN CONTAINER
+        ==================================================== */}
 
-        <div className="relative w-0 h-0 transform-style-3d">
+        <div
+          className="
+            relative
+            w-0
+            h-0
+            transform-style-3d
+          "
+        >
 
-          {/* ====================================================
+
+          {/* ==================================================
               FOLDER BACK
-          ==================================================== */}
+          ================================================== */}
 
           <div
             ref={folderBackRef}
-            className="absolute w-[85vw] md:w-[32vw] max-w-[380px] aspect-video bg-[#141414] rounded-[24px] border border-red-600/40 shadow-[0_20px_50px_rgba(229,9,20,0.25)] flex items-center justify-center"
-            style={{ zIndex: 5 }}
+
+            className="
+              absolute
+              w-[85vw]
+              md:w-[32vw]
+              max-w-[380px]
+              aspect-video
+              bg-[#141414]
+              rounded-[24px]
+              border
+              border-red-600/40
+              shadow-[0_20px_50px_rgba(229,9,20,0.25)]
+              flex
+              items-center
+              justify-center
+            "
+
+            style={{
+              zIndex: 5
+            }}
           >
 
-            <div className="absolute -top-6 left-6 w-32 h-8 bg-[#1f1f1f] rounded-t-xl border-t border-red-600/30" />
-
-            <div className="relative z-10 text-red-600 font-mono font-black text-2xl tracking-widest uppercase opacity-60">
-
-              ARCHIVE_SLOTS
-
-            </div>
-
-          </div>
-
-          {/* ====================================================
-              DESKTOP PROJECT CARDS
-          ==================================================== */}
-
-          {projectsData.map((project, i) => (
+            {/* FOLDER TAB */}
 
             <div
-              key={i}
-              ref={el => cardsRef.current[i] = el}
-              className="hidden md:block absolute w-[80vw] md:w-[33vw] max-w-[380px] aspect-[16/10] will-change-transform"
-              style={{ zIndex: 10 + i }}
+              className="
+                absolute
+                -top-6
+                left-6
+                w-32
+                h-8
+                bg-[#1f1f1f]
+                rounded-t-xl
+                border-t
+                border-red-600/30
+              "
+            />
+
+
+            {/* ==================================================
+                EXTERNAL ARCHIVE LINK
+            ================================================== */}
+
+            <a
+              href={ARCHIVE_LINK}
+              target="_blank"
+              rel="noopener noreferrer"
+
+              aria-label="Open complete project archive"
+
+              className="
+                relative
+                z-[20]
+                group
+                flex
+                flex-col
+                items-center
+                justify-center
+                gap-3
+                w-full
+                h-full
+                text-center
+                no-underline
+                cursor-pointer
+              "
             >
 
-              <div className="w-full h-full rounded-[24px] overflow-hidden border border-white/15 bg-[#141414]/95 backdrop-blur-2xl shadow-[0_25px_50px_rgba(0,0,0,0.9)] transition-all duration-500 group hover:scale-[1.04] hover:border-red-600 hover:shadow-[0_35px_80px_rgba(229,9,20,0.35)] hover:-translate-y-2 cursor-pointer relative z-10 p-7 flex flex-col justify-between">
+              {/* ARCHIVE ICON */}
 
-                {/* ------------------------------------------------
-                    TOP HEADER
-                ------------------------------------------------ */}
+              <div
+                className="
+                  w-14
+                  h-14
+                  rounded-full
+                  border
+                  border-red-600/40
+                  bg-red-600/10
+                  flex
+                  items-center
+                  justify-center
+                  text-red-500
+                  transition-all
+                  duration-300
+                  group-hover:bg-red-600
+                  group-hover:text-white
+                  group-hover:border-red-500
+                  group-hover:scale-110
+                  group-hover:shadow-[0_0_30px_rgba(229,9,20,0.5)]
+                "
+              >
 
-                <div className="flex items-center justify-between">
-
-                  <span className="text-[10px] font-mono font-bold tracking-widest uppercase text-red-500 bg-red-600/10 px-2.5 py-1 rounded border border-red-600/20">
-
-                    {project.episode}
-
-                  </span>
-
-                  <div className="flex items-center gap-2">
-
-                    <span className="text-xs font-mono text-red-400 font-bold">
-
-                      {project.match}
-
-                    </span>
-
-                    <span className="text-[10px] font-mono border border-white/30 px-1 text-white/70">
-
-                      HD
-
-                    </span>
-
-                  </div>
-
-                </div>
-
-                {/* ------------------------------------------------
-                    TITLE + DESCRIPTION
-                ------------------------------------------------ */}
-
-                <div className="space-y-2 my-auto">
-
-                  <div className="text-[11px] font-mono uppercase tracking-widest text-white/40">
-
-                    {project.category}
-
-                  </div>
-
-                  <h3 className="text-2xl font-black text-white tracking-tight group-hover:text-red-500 transition-colors duration-300">
-
-                    {project.title}
-
-                  </h3>
-
-                  <p className="text-xs text-white/70 font-light leading-relaxed line-clamp-2">
-
-                    {project.description}
-
-                  </p>
-
-                </div>
-
-                {/* ------------------------------------------------
-                    TECH TAGS
-                ------------------------------------------------ */}
-
-                <div className="flex flex-wrap gap-1.5 pt-3 border-t border-white/10">
-
-                  {project.tags.map((tag, tIdx) => (
-
-                    <span
-                      key={tIdx}
-                      className="text-[10px] font-mono text-white/70 bg-white/5 px-2 py-0.5 rounded"
-                    >
-
-                      {tag}
-
-                    </span>
-
-                  ))}
-
-                </div>
-
-                {/* ------------------------------------------------
-                    DOCUMENTATION LINK
-                ------------------------------------------------ */}
-
-                <a
-                  href={project.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  onClick={(e) => e.stopPropagation()}
-                  className="mt-3 inline-flex items-center gap-2 text-[10px] font-mono uppercase tracking-widest text-red-500 hover:text-white transition-colors duration-300 w-fit"
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="22"
+                  height="22"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.8"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 >
-
-                  VIEW CASE FILE
-
-                  <span className="text-sm transition-transform duration-300 group-hover:translate-x-1">
-
-                    →
-
-                  </span>
-
-                </a>
-
-                {/* RED CORNER ACCENT */}
-
-                <div className="absolute bottom-4 right-4 w-2 h-2 rounded-full bg-red-600 group-hover:shadow-[0_0_15px_#E50914] transition-all" />
+                  <path d="M3 7h5l2 2h11v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7z" />
+                  <path d="M12 13v4" />
+                  <path d="M10 15l2 2 2-2" />
+                </svg>
 
               </div>
 
-            </div>
 
-          ))}
+              {/* MAIN TEXT */}
 
-          {/* ====================================================
+              <div
+                className="
+                  font-mono
+                  font-black
+                  text-sm
+                  md:text-base
+                  tracking-[0.25em]
+                  uppercase
+                  text-red-500
+                  group-hover:text-white
+                  transition-colors
+                  duration-300
+                "
+              >
+                CLICK TO VIEW MORE
+              </div>
+
+
+              {/* SUBTEXT */}
+
+              <div
+                className="
+                  font-mono
+                  text-[9px]
+                  md:text-[10px]
+                  tracking-widest
+                  uppercase
+                  text-white/30
+                  group-hover:text-white/60
+                  transition-colors
+                  duration-300
+                "
+              >
+                COMPLETE PROJECT ARCHIVE
+              </div>
+
+
+              {/* ARROW */}
+
+              <div
+                className="
+                  text-red-500
+                  text-lg
+                  transition-all
+                  duration-300
+                  group-hover:text-white
+                  group-hover:translate-x-2
+                "
+              >
+                →
+              </div>
+
+            </a>
+
+          </div>
+
+
+          {/* ==================================================
+              DESKTOP PROJECT CARDS
+          ================================================== */}
+
+          {projectsData.map(
+            (project, i) => (
+
+              <a
+                key={i}
+
+                ref={el =>
+                  cardsRef.current[i] = el
+                }
+
+                href={project.link}
+
+                target="_blank"
+
+                rel="noopener noreferrer"
+
+                aria-label={`Open case file: ${project.title}`}
+
+                className="
+                  hidden
+                  md:block
+                  absolute
+                  w-[80vw]
+                  md:w-[33vw]
+                  max-w-[380px]
+                  aspect-[16/10]
+                  will-change-transform
+                  cursor-pointer
+                  no-underline
+                "
+
+                style={{
+                  zIndex: 10 + i
+                }}
+              >
+
+                <div
+                  className="
+                    w-full
+                    h-full
+                    rounded-[24px]
+                    overflow-hidden
+                    border
+                    border-white/15
+                    bg-[#141414]/95
+                    backdrop-blur-2xl
+                    shadow-[0_25px_50px_rgba(0,0,0,0.9)]
+                    transition-all
+                    duration-500
+                    group
+                    hover:scale-[1.04]
+                    hover:border-red-600
+                    hover:shadow-[0_35px_80px_rgba(229,9,20,0.35)]
+                    hover:-translate-y-2
+                    relative
+                    z-10
+                    p-7
+                    flex
+                    flex-col
+                    justify-between
+                  "
+                >
+
+
+                  {/* TOP HEADER */}
+
+                  <div
+                    className="
+                      flex
+                      items-center
+                      justify-between
+                    "
+                  >
+
+                    <span
+                      className="
+                        text-[10px]
+                        font-mono
+                        font-bold
+                        tracking-widest
+                        uppercase
+                        text-red-500
+                        bg-red-600/10
+                        px-2.5
+                        py-1
+                        rounded
+                        border
+                        border-red-600/20
+                      "
+                    >
+                      {project.episode}
+                    </span>
+
+
+                    <div
+                      className="
+                        flex
+                        items-center
+                        gap-2
+                      "
+                    >
+
+                      <span
+                        className="
+                          text-xs
+                          font-mono
+                          text-red-400
+                          font-bold
+                        "
+                      >
+                        {project.match}
+                      </span>
+
+
+                      <span
+                        className="
+                          text-[10px]
+                          font-mono
+                          border
+                          border-white/30
+                          px-1
+                          text-white/70
+                        "
+                      >
+                        HD
+                      </span>
+
+                    </div>
+
+                  </div>
+
+
+                  {/* TITLE + DESCRIPTION */}
+
+                  <div
+                    className="
+                      space-y-2
+                      my-auto
+                    "
+                  >
+
+                    <div
+                      className="
+                        text-[11px]
+                        font-mono
+                        uppercase
+                        tracking-widest
+                        text-white/40
+                      "
+                    >
+                      {project.category}
+                    </div>
+
+
+                    <h3
+                      className="
+                        text-2xl
+                        font-black
+                        text-white
+                        tracking-tight
+                        group-hover:text-red-500
+                        transition-colors
+                        duration-300
+                      "
+                    >
+                      {project.title}
+                    </h3>
+
+
+                    <p
+                      className="
+                        text-xs
+                        text-white/70
+                        font-light
+                        leading-relaxed
+                        line-clamp-2
+                      "
+                    >
+                      {project.description}
+                    </p>
+
+                  </div>
+
+
+                  {/* TECH TAGS */}
+
+                  <div
+                    className="
+                      flex
+                      flex-wrap
+                      gap-1.5
+                      pt-3
+                      border-t
+                      border-white/10
+                    "
+                  >
+
+                    {project.tags.map(
+                      (tag, tIdx) => (
+
+                        <span
+                          key={tIdx}
+
+                          className="
+                            text-[10px]
+                            font-mono
+                            text-white/70
+                            bg-white/5
+                            px-2
+                            py-0.5
+                            rounded
+                            group-hover:border-red-600/30
+                            transition-colors
+                          "
+                        >
+                          {tag}
+                        </span>
+
+                      )
+                    )}
+
+                  </div>
+
+
+                  {/* VIEW CASE FILE */}
+
+                  <div
+                    className="
+                      mt-3
+                      inline-flex
+                      items-center
+                      gap-2
+                      text-[10px]
+                      font-mono
+                      uppercase
+                      tracking-widest
+                      text-red-500
+                      group-hover:text-white
+                      transition-colors
+                      duration-300
+                      w-fit
+                    "
+                  >
+
+                    VIEW CASE FILE
+
+                    <span
+                      className="
+                        text-sm
+                        transition-transform
+                        duration-300
+                        group-hover:translate-x-1
+                      "
+                    >
+                      →
+                    </span>
+
+                  </div>
+
+
+                  {/* RED CORNER ACCENT */}
+
+                  <div
+                    className="
+                      absolute
+                      bottom-4
+                      right-4
+                      w-2
+                      h-2
+                      rounded-full
+                      bg-red-600
+                      group-hover:shadow-[0_0_15px_#E50914]
+                      transition-all
+                    "
+                  />
+
+                </div>
+
+              </a>
+
+            )
+          )}
+
+
+          {/* ==================================================
               FOLDER FRONT FLAP
-          ==================================================== */}
+          ================================================== */}
 
           <div
             ref={folderFrontRef}
-            className="absolute w-[85vw] md:w-[32vw] max-w-[380px] aspect-video pointer-events-none will-change-transform"
-            style={{ zIndex: 60 }}
+
+            className="
+              absolute
+              w-[85vw]
+              md:w-[32vw]
+              max-w-[380px]
+              aspect-video
+              pointer-events-none
+              will-change-transform
+            "
+
+            style={{
+              zIndex: 60
+            }}
           >
 
-            <div className="absolute bottom-0 w-full h-[85%] bg-[#1c1c1c] rounded-b-[24px] rounded-t-md shadow-[0_-5px_20px_rgba(0,0,0,0.8)] flex flex-col justify-end p-6 border-t border-red-600/40">
+            <div
+              className="
+                absolute
+                bottom-0
+                w-full
+                h-[85%]
+                bg-[#1c1c1c]
+                rounded-b-[24px]
+                rounded-t-md
+                shadow-[0_-5px_20px_rgba(0,0,0,0.8)]
+                flex
+                flex-col
+                justify-end
+                p-6
+                border-t
+                border-red-600/40
+              "
+            >
 
-              <div className="w-20 h-1.5 bg-white/20 rounded-full mx-auto mb-2" />
+              <div
+                className="
+                  w-20
+                  h-1.5
+                  bg-white/20
+                  rounded-full
+                  mx-auto
+                  mb-2
+                "
+              />
 
             </div>
 
@@ -659,13 +1239,35 @@ const Projects = () => {
 
       </div>
 
-      {/* ========================================================
+
+      {/* ======================================================
           MOBILE SWIPEABLE CAROUSEL
-      ======================================================== */}
+      ====================================================== */}
 
       <div
         ref={mobileCarouselRef}
-        className="md:hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-screen h-auto py-12 flex items-center gap-6 px-[12.5vw] pointer-events-none z-[100] snap-x snap-mandatory overflow-x-hidden hide-scrollbar"
+
+        className="
+          md:hidden
+          absolute
+          top-1/2
+          left-1/2
+          -translate-x-1/2
+          -translate-y-1/2
+          w-screen
+          h-auto
+          py-12
+          flex
+          items-center
+          gap-6
+          px-[12.5vw]
+          pointer-events-none
+          z-[100]
+          snap-x
+          snap-mandatory
+          overflow-x-hidden
+          hide-scrollbar
+        "
       >
 
         <style>{`
@@ -681,100 +1283,226 @@ const Projects = () => {
 
         `}</style>
 
-        {projectsData.map((project, i) => (
 
-          <div
-            key={`mob-${i}`}
-            ref={el => mobileCardsRef.current[i] = el}
-            className="shrink-0 w-[78vw] aspect-[16/11] snap-center will-change-transform relative z-10"
-          >
+        {projectsData.map(
+          (project, i) => (
 
-            <div className="w-full h-full rounded-[24px] overflow-hidden border border-white/15 bg-[#141414] p-6 flex flex-col justify-between shadow-[0_20px_40px_rgba(0,0,0,0.9)]">
+            <a
+              key={`mob-${i}`}
 
-              {/* MOBILE HEADER */}
+              ref={el =>
+                mobileCardsRef.current[i] = el
+              }
 
-              <div className="flex items-center justify-between">
+              href={project.link}
 
-                <span className="text-[10px] font-mono font-bold tracking-widest text-red-500 bg-red-600/10 px-2 py-0.5 rounded">
+              target="_blank"
 
-                  {project.episode}
+              rel="noopener noreferrer"
 
-                </span>
+              aria-label={`Open case file: ${project.title}`}
 
-                <span className="text-xs font-mono text-red-400 font-bold">
+              className="
+                shrink-0
+                w-[78vw]
+                aspect-[16/11]
+                snap-center
+                will-change-transform
+                relative
+                z-10
+                cursor-pointer
+                no-underline
+                block
+              "
+            >
 
-                  {project.match}
-
-                </span>
-
-              </div>
-
-              {/* MOBILE TITLE */}
-
-              <div className="space-y-2">
-
-                <h3 className="text-xl font-black text-white">
-
-                  {project.title}
-
-                </h3>
-
-                <p className="text-xs text-white/70 font-light line-clamp-2">
-
-                  {project.description}
-
-                </p>
-
-              </div>
-
-              {/* MOBILE TAGS */}
-
-              <div className="flex flex-wrap gap-1 pt-2 border-t border-white/10">
-
-                {project.tags.slice(0, 3).map((tag, tIdx) => (
-
-                  <span
-                    key={tIdx}
-                    className="text-[10px] font-mono text-white/60 bg-white/5 px-2 py-0.5 rounded"
-                  >
-
-                    {tag}
-
-                  </span>
-
-                ))}
-
-              </div>
-
-              {/* MOBILE DOCUMENTATION LINK */}
-
-              <a
-                href={project.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-3 inline-flex items-center gap-2 text-[10px] font-mono uppercase tracking-widest text-red-500 hover:text-white transition-colors duration-300 w-fit"
+              <div
+                className="
+                  w-full
+                  h-full
+                  rounded-[24px]
+                  overflow-hidden
+                  border
+                  border-white/15
+                  bg-[#141414]
+                  p-6
+                  flex
+                  flex-col
+                  justify-between
+                  shadow-[0_20px_40px_rgba(0,0,0,0.9)]
+                  transition-all
+                  duration-300
+                  active:scale-[0.97]
+                "
               >
 
-                VIEW CASE FILE
+                {/* MOBILE HEADER */}
 
-                <span className="text-sm">
+                <div
+                  className="
+                    flex
+                    items-center
+                    justify-between
+                  "
+                >
 
-                  →
+                  <span
+                    className="
+                      text-[10px]
+                      font-mono
+                      font-bold
+                      tracking-widest
+                      text-red-500
+                      bg-red-600/10
+                      px-2
+                      py-0.5
+                      rounded
+                    "
+                  >
+                    {project.episode}
+                  </span>
 
-                </span>
 
-              </a>
+                  <span
+                    className="
+                      text-xs
+                      font-mono
+                      text-red-400
+                      font-bold
+                    "
+                  >
+                    {project.match}
+                  </span>
 
-            </div>
+                </div>
 
-          </div>
 
-        ))}
+                {/* MOBILE TITLE */}
+
+                <div
+                  className="
+                    space-y-2
+                  "
+                >
+
+                  <div
+                    className="
+                      text-[9px]
+                      font-mono
+                      uppercase
+                      tracking-widest
+                      text-white/40
+                    "
+                  >
+                    {project.category}
+                  </div>
+
+
+                  <h3
+                    className="
+                      text-xl
+                      font-black
+                      text-white
+                    "
+                  >
+                    {project.title}
+                  </h3>
+
+
+                  <p
+                    className="
+                      text-xs
+                      text-white/70
+                      font-light
+                      line-clamp-2
+                    "
+                  >
+                    {project.description}
+                  </p>
+
+                </div>
+
+
+                {/* MOBILE TAGS */}
+
+                <div
+                  className="
+                    flex
+                    flex-wrap
+                    gap-1
+                    pt-2
+                    border-t
+                    border-white/10
+                  "
+                >
+
+                  {project.tags
+                    .slice(0, 3)
+                    .map(
+                      (tag, tIdx) => (
+
+                        <span
+                          key={tIdx}
+
+                          className="
+                            text-[10px]
+                            font-mono
+                            text-white/60
+                            bg-white/5
+                            px-2
+                            py-0.5
+                            rounded
+                          "
+                        >
+                          {tag}
+                        </span>
+
+                      )
+                    )}
+
+                </div>
+
+
+                {/* MOBILE CASE FILE INDICATOR */}
+
+                <div
+                  className="
+                    mt-3
+                    inline-flex
+                    items-center
+                    gap-2
+                    text-[10px]
+                    font-mono
+                    uppercase
+                    tracking-widest
+                    text-red-500
+                  "
+                >
+
+                  VIEW CASE FILE
+
+                  <span
+                    className="
+                      text-sm
+                    "
+                  >
+                    →
+                  </span>
+
+                </div>
+
+              </div>
+
+            </a>
+
+          )
+        )}
 
       </div>
 
     </section>
   );
 };
+
 
 export default Projects;
