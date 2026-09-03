@@ -182,8 +182,8 @@ const Hero = () => {
             <span className="text-white/80">SEASONS 2020 - 2026</span>
           </div>
           <div className="hidden md:flex items-center gap-2 text-xs font-mono text-white/50 tracking-wider">
-            <span className="px-2 py-0.5 border border-white/20 rounded bg-black/40">FULL-STACK 4K</span>
-            <span className="px-2 py-0.5 border border-white/20 rounded bg-black/40">AI / ML CERTIFIED</span>
+            <span className="px-2 py-0.5 border border-white/20 rounded bg-black/40">FULL-STACK [IV]</span>
+            <span className="px-2 py-0.5 border border-white/20 rounded bg-black/40">RESEARCHER</span>
           </div>
         </div>
 
@@ -209,8 +209,6 @@ const Hero = () => {
               <span className="px-2 py-0.5 bg-red-500/10 border border-red-500/30 rounded text-red-500">99.9% Uptime</span>
               <span className="text-white/40">•</span>
               <span>Cybersecurity • Digital Forensics • Ethical Hacking • Securiy Researcher • Software Developer</span>
-              <span className="text-white/40">•</span>
-              <span className="text-white/70">Security • Engineering</span>
             </div>
 
             <p className="hero-anim-item text-sm md:text-base text-white/80 font-light leading-relaxed max-w-md drop-shadow">
@@ -279,7 +277,7 @@ const Hero = () => {
             <div className="p-5 bg-black/80 backdrop-blur-2xl border border-white/15 rounded-xl shadow-2xl max-w-xs">
               <h3 className="text-xs font-mono uppercase tracking-widest text-red-500 font-bold mb-2">CORE INTELLIGENCE DOMAINS</h3>
               <p className="text-xs text-white/80 leading-relaxed font-light">
-                Digital Forensics • Cybercrime Investigation • Security Research • AI/ML Security
+                Digital Forensics • Ethical Hacking • Security Research • AI/ML Security
               </p>
             </div>
           </div>
